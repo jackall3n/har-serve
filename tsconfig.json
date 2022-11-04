@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "target": "es5",
+    "rootDir": "./src",
+    "outDir": "./bin",
+    "declaration": false,
+    "importHelpers": false,
+    "esModuleInterop": true
+  }
+}
